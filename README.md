@@ -45,4 +45,6 @@
 * [سکان آکادمی](https://t.me/sokanacademy) کانالی پر از مطالب خواندنی سایت سکان‌آکادمی
 * [UX IT ten](https://t.me/uxitten) نکات UI/UX و اخبار پیرامون دیزاین
 * [آکادمی برنامه نویسی](https://t.me/programmingAcademy) یک دانشگاه مجازی برای برنامه نویسان اندرویدی
+* [AndroidRepository](https://t.me/AndroidRepository) کانالی حاصل یافته‌ها و تجربیات چند نویسنده
+
 </div>
