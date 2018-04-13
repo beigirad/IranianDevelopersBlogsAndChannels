@@ -25,7 +25,7 @@
 * [کیبرد آزاد](https://jadi.net/) در دفاع از آزادی کیبرد، وبلاگ جادی میرمیرانی    
 * [ابوالفضل فخاری](http://abolfazlfakhari.ir/) وبلاگی برای گذاشتن تجربه هایی از دنیای برنامه نویسی اندروید
 * [OkCode](http://okcode.ir/) نوشته‌ها و تجربیات عباس نقدی
-
+* [MSKM](http://mskm.ir/) آموزش برنامه نویسی به زبان ساده
 
 ## کانال ها
 * [AndroidiChannel](https://t.me/androiddevelop) آموزش برنامه نویسی اندروید از صفر تا صد
@@ -46,5 +46,5 @@
 * [UX IT ten](https://t.me/uxitten) نکات UI/UX و اخبار پیرامون دیزاین
 * [آکادمی برنامه نویسی](https://t.me/programmingAcademy) یک دانشگاه مجازی برای برنامه نویسان اندرویدی
 * [AndroidRepository](https://t.me/AndroidRepository) کانالی حاصل یافته‌ها و تجربیات چند نویسنده
-
+* [MSKM](https://t.me/mskm_ir) کانال اطلاع رسانی mskm
 </div>
