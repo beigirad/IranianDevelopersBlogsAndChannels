@@ -24,22 +24,25 @@
 * [سالار کابلی](https://sallar.me/farsi/)  یک برنامه‌نویس ۲۸ ساله که در هلسینکی، فنلاند زندگی می‌کند.
 * [کیبرد آزاد](https://jadi.net/) در دفاع از آزادی کیبرد، وبلاگ جادی میرمیرانی    
 * [ابوالفضل فخاری](http://abolfazlfakhari.ir/) وبلاگی برای گذاشتن تجربه هایی از دنیای برنامه نویسی اندروید
-
+* [OkCode](http://okcode.ir/) نوشته‌ها و تجربیات عباس نقدی
 
 
 ## کانال ها
+* [AndroidiChannel](https://t.me/androiddevelop) آموزش برنامه نویسی اندروید از صفر تا صد
 * [AndTips](https://t.me/AndTips/) مجموعه ای از لینک ها و مطالب مفید پیرامون توسعه اندروید
 * [GeekOff](https://t.me/geekoff/) دستنوشته‌هایی در مورد لینوکس و dist های مختلف
 * [میلاد نوری](https://t.me/MiladNouriChannel) توی این کانال میلاد نوری درباره ی تجربیاتش پیرامون همه‌چی مینویسه
 * [I Like Android](https://t.me/android_development) کانالی برای اندروید دولوپرها
 * [KotlinFa](https://t.me/kotlin_fa) تازه های کاتلین رو معرفی میکنه
-* [AndroidiChannel](https://t.me/androiddevelop) آموزش برنامه نویسی اندروید از صفر تا صد
 * [Android Developers Area](https://t.me/android_developers_area) کانال توسعه دهندگان اندروید به دو زبان انگلیسی و فارسی
 * [باهم برای سنیور شدن](https://t.me/androidSenior) در تلاش برای سنیور شدن
 * [کانال صدرا املشی](https://t.me/SadraAmlashi) از آخرین پست های وبلاگ صدرا باخبر بشید
 * [irLogCat](https://t.me/irlogcat) کانال اطلاع رسانی گروه توسعه‌دهندگان اندروید در تهران
 * [Android Dev's](https://t.me/androiddevs_sh) مرجع توسعه دهندگان اندروید
 * [اندرویدیها](https://t.me/androidihameeting) نشست ماهانه توسعه دهندگان اندروید
-
-
+* [رادیو گیک](https://t.me/jadiradio) پادکست های صوتی جادی
+* [خبرگزاری توسعه‌دهندگان](https://t.me/irdevnews) خبرهای کوتاه دنیای برنامه نویسی
+* [سکان آکادمی](https://t.me/sokanacademy) کانالی پر از مطالب خواندنی سایت سکان‌آکادمی
+* [UX IT ten](https://t.me/uxitten) نکات UI/UX و اخبار پیرامون دیزاین
+* [آکادمی برنامه نویسی](https://t.me/programmingAcademy) یک دانشگاه مجازی برای برنامه نویسان اندرویدی
 </div>
