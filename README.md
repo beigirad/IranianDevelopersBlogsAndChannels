@@ -30,7 +30,7 @@
 
 ## کانال ها
 * [AndroidiChannel](https://t.me/androiddevelop) آموزش برنامه نویسی اندروید از صفر تا صد
-* [AndTips](https://t.me/AndTips/) مجموعه ای از لینک ها و مطالب مفید پیرامون توسعه اندروید
+* [AndNotes](https://t.me/AndNotes/) مجموعه ای از لینک ها و مطالب مفید پیرامون توسعه اندروید
 * [GeekOff](https://t.me/geekoff/) دستنوشته‌هایی در مورد لینوکس و dist های مختلف
 * [میلاد نوری](https://t.me/MiladNouriChannel) توی این کانال میلاد نوری درباره ی تجربیاتش پیرامون همه‌چی مینویسه
 * [I Like Android](https://t.me/android_development) کانالی برای اندروید دولوپرها
